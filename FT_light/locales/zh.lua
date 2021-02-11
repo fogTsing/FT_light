@@ -1,0 +1,20 @@
+Locales['zh'] =  {
+	['menu_title'] = '彩色大灯(200$)',
+	['default'] = '默认',
+	['white'] = '白色',
+	['blue'] = '蓝色',
+	['electric_blue'] = '闪电蓝',
+	['mint_green'] = '薄荷绿',
+	['lime_green'] = '柠檬绿',
+	['yellow'] = '黄色',
+	['golden_shower'] = '金色',
+	['orange'] = '橙色',
+	['red'] = '红色',
+	['pony_pink'] = '独角兽之粉',
+	['hot_pink'] = '亮粉色',
+	['purple'] = '紫色',
+	['blacklight'] = '黑光',
+	['billing_notification'] = '彩色头灯',
+	['no_car_notification'] = '小伙子没车不要来搞事',
+	['who_sends_no_car_notification'] = '技工'
+}
